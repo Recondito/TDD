@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RangeTest", "RangeTest\RangeTest.vcxproj", "{11872640-0238-46A6-9FAA-652AD1E4EA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Debug|x64.ActiveCfg = Debug|x64
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Debug|x64.Build.0 = Debug|x64
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Debug|x86.ActiveCfg = Debug|Win32
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Debug|x86.Build.0 = Debug|Win32
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Release|x64.ActiveCfg = Release|x64
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Release|x64.Build.0 = Release|x64
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Release|x86.ActiveCfg = Release|Win32
+		{11872640-0238-46A6-9FAA-652AD1E4EA46}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A2CBFD-395A-44A8-904B-4D9ABD06E7C7}
+	EndGlobalSection
+EndGlobal
